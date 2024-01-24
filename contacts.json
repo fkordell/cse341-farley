@@ -1,24 +1,23 @@
-{
-    "contact":{
-        "firstName": "Katie",
-        "lastName": "Miller",
-        "email": "millak@test.com",
-        "favoriteColor": "purple",
-        "birthday": "12/13/1998"
-    },
-    "contact2":{
-        "firstName": "Morgan",
-        "lastName": "Farley",
-        "email": "morgusborg@test.com",
-        "favoriteColor": "Red",
-        "birthday": "05/05/1996"
-    },
-    "contact3":{
-        "firstName": "Achsah",
-        "lastName": "Cook",
-        "email": "acook3@test.com",
-        "favoriteColor": "Blue",
-        "birthday": "07/17/1993"
-    }
-
-}
+[
+  {
+    "firstName": "Katie",
+    "lastName": "Miller",
+    "email": "millak@test.com",
+    "favoriteColor": "purple",
+    "birthday": "12/13/1998"
+  },
+  {
+    "firstName": "Morgan",
+    "lastName": "Farley",
+    "email": "morgusborg@test.com",
+    "favoriteColor": "Red",
+    "birthday": "05/05/1996"
+  },
+  {
+    "firstName": "Achsah",
+    "lastName": "Cook",
+    "email": "acook3@test.com",
+    "favoriteColor": "Blue",
+    "birthday": "07/17/1993"
+  }
+]
