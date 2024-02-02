@@ -30,16 +30,16 @@ PUT http://localhost:8080/contacts/65afea4f075e4232e6f24831 HTTP/1.1
 content-type: application/json
 
 {
-    "firstName": "Kathleen",
+    "firstName": "Katie",
     "lastName": "Miller",
     "email": "millak@test.com",
-    "favoriteColor": "blue",
+    "favoriteColor": "green",
     "birthday": "12/13/1999"
 }
 
 ###
 //DELETE contact
-DELETE http://localhost:8080/contacts/65b58c16205e0ab7b164ea3f HTTP/1.1
+DELETE http://localhost:8080/contacts/65b58d07205e0ab7b164ea40 HTTP/1.1
 
 //PRODUCTION//
 //**********//
